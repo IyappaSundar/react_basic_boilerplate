@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Iyappa Sundar Natarajan",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.5",
     "react": "^15.4.1",

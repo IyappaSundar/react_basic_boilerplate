@@ -16,7 +16,7 @@ npm install
 
 # Command to bring up local server
 gulp server
-
+(This will start the local server at http://localhost:3000)
 
 # Command to build for PROD
 gulp build-prod
