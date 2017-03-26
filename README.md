@@ -2,24 +2,20 @@
 React Basic Boiler Plate
 
 # Empty Basic Project setup for React
-React(version ^15.4.0), ReactDOM, Bootstrap
+React(version ^15.4.1), ReactDOM, Bootstrap
 
 # Build Tools Used
 Webpack, Webpack Dev Server, Gulp, Babel
 
 
-
-# Steps
-
-1. Clone the git url
-
-2. Execute command below to install dependencies
-# npm install
+# command below to install dependencies
+npm install
 
 
-#Execute command below to bring up local server
-# gulp server
+# command below to bring up local server
+gulp server
 
-#Execute command below to build for PROD
-# gulp build-prod
+
+# command below to build for PROD
+gulp build-prod
 
